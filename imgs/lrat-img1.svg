@@ -1,0 +1,46 @@
+<svg width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="500" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#003366" text-anchor="middle">
+    Built with IBM DOORS DXL
+  </text>
+  
+  <!-- Layer 1: DXL GUI Layer -->
+  <path d="M 150 100 L 850 100 L 800 220 L 200 220 Z" fill="#003366" stroke="#002244" stroke-width="2"/>
+  <text x="500" y="135" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">🖥️</text>
+  <text x="500" y="165" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">DXL GUI Layer</text>
+  <text x="500" y="190" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Multi-tab Interface • Context-Sensitive Controls</text>
+  <text x="500" y="210" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Tree Views • List Views • Dynamic Forms</text>
+  
+  <!-- Arrows down -->
+  <path d="M 450 230 L 450 260" stroke="#0066CC" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+  <path d="M 500 230 L 500 260" stroke="#0066CC" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+  <path d="M 550 230 L 550 260" stroke="#0066CC" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+  
+  <!-- Layer 2: DXL Processing Layer -->
+  <path d="M 200 260 L 800 260 L 750 380 L 250 380 Z" fill="#0066CC" stroke="#004499" stroke-width="2"/>
+  <text x="500" y="295" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">⚡</text>
+  <text x="500" y="325" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">DXL Processing Layer</text>
+  <text x="500" y="350" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Batch Operations • Memory Optimization</text>
+  <text x="500" y="370" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Concurrent Management • Validation Engine</text>
+  
+  <!-- Arrows down -->
+  <path d="M 450 390 L 450 420" stroke="#0066CC" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+  <path d="M 500 390 L 500 420" stroke="#0066CC" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+  <path d="M 550 390 L 550 420" stroke="#0066CC" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+  
+  <!-- Layer 3: DOORS API Integration -->
+  <path d="M 250 420 L 750 420 L 700 540 L 300 540 Z" fill="#00539C" stroke="#003366" stroke-width="2"/>
+  <text x="500" y="455" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">💾</text>
+  <text x="500" y="485" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">DOORS API Integration</text>
+  <text x="500" y="515" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Modules • Objects • Baselines • Links • Attributes</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#0066CC"/>
+    </marker>
+  </defs>
+</svg>
