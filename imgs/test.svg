@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 906 479.82">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 15.36px;
+      }
+
+      .st0, .st1, .st2 {
+        fill: #333;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st0, .st2, .st4, .st5, .st6, .st7 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st8, .st9, .st10, .st11, .st12 {
+        stroke-width: 2px;
+      }
+
+      .st8, .st9, .st11, .st13, .st12 {
+        stroke-miterlimit: 10;
+      }
+
+      .st8, .st9, .st11, .st12 {
+        stroke: #000;
+      }
+
+      .st8, .st14 {
+        fill: #2d5987;
+      }
+
+      .st1, .st3 {
+        font-size: 12.11px;
+      }
+
+      .st1, .st3, .st15 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st2 {
+        font-size: 15.14px;
+      }
+
+      .st3 {
+        fill: #555;
+      }
+
+      .st4 {
+        font-size: 37.1px;
+      }
+
+      .st4, .st5, .st7 {
+        fill: #fff;
+      }
+
+      .st16 {
+        fill: url(#linear-gradient);
+      }
+
+      .st17, .st9 {
+        fill: #41ac9c;
+      }
+
+      .st18, .st11 {
+        fill: #ffa25f;
+      }
+
+      .st5 {
+        font-size: 10.85px;
+      }
+
+      .st15 {
+        font-size: 23.99px;
+      }
+
+      .st19, .st12 {
+        fill: #7a7bf1;
+      }
+
+      .st20 {
+        fill: #f0c913;
+      }
+
+      .st21 {
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st21, .st10, .st13 {
+        fill: none;
+      }
+
+      .st6, .st7 {
+        font-size: 31.2px;
+      }
+
+      .st10 {
+        stroke: #ccc;
+      }
+
+      .st13 {
+        stroke: #2196f3;
+        stroke-width: 3px;
+      }
+
+      .st22 {
+        fill: #57bcf6;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="434.72" y1="167.68" x2="411.06" y2="307.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2196f3"/>
+      <stop offset="1" stop-color="#bfe0fb"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g>
+      <rect class="st9" x="108" y="41.95" width="155.06" height="116.29" rx="15" ry="15"/>
+      <rect class="st8" x="286.31" y="41.95" width="155.06" height="116.29" rx="15" ry="15"/>
+      <rect class="st11" x="464.63" y="41.95" width="155.06" height="116.29" rx="15" ry="15"/>
+      <rect class="st12" x="642.94" y="41.95" width="155.06" height="116.29" rx="15" ry="15"/>
+      <g>
+        <text class="st4" transform="translate(148.4 93.89)"><tspan x="0" y="0">94%</tspan></text>
+        <text class="st5" transform="translate(167.73 121.01)"><tspan x="0" y="0">Faster </tspan><tspan x="-38.61" y="13.02">specifications release</tspan></text>
+      </g>
+      <g>
+        <text class="st4" transform="translate(350.88 94.8)"><tspan x="0" y="0">5</tspan></text>
+        <text class="st5" transform="translate(326.75 120.1)"><tspan x="0" y="0">Major projects</tspan><tspan x="1.52" y="13.02">using the tool</tspan></text>
+      </g>
+      <g>
+        <text class="st4" transform="translate(521.53 94.64)"><tspan x="0" y="0">10</tspan></text>
+        <text class="st5" transform="translate(514.41 120.1)"><tspan x="0" y="0">Users fully</tspan><tspan x="-.29" y="13.02">unboarded</tspan></text>
+      </g>
+      <g>
+        <text class="st4" transform="translate(664.26 100.4)"><tspan x="0" y="0">+1000</tspan></text>
+        <text class="st5" transform="translate(658.94 127.52)"><tspan x="0" y="0">Released specifications</tspan></text>
+      </g>
+    </g>
+    <g>
+      <text class="st0" transform="translate(364.38 225.21)"><tspan x="0" y="0">Release Time Reduction</tspan></text>
+      <g>
+        <line class="st10" x1="198.67" y1="237.84" x2="198.67" y2="427.05"/>
+        <polygon class="st16" points="614.95 389.21 614.95 427.05 198.67 427.05 198.67 237.84 387.89 252.97 614.95 389.21"/>
+        <text class="st3" transform="translate(213.81 442.19)"><tspan x="0" y="0">Before</tspan></text>
+        <text class="st3" transform="translate(577.11 442.19)"><tspan x="0" y="0">After</tspan></text>
+        <text class="st2" transform="translate(652.8 389.21)"><tspan x="0" y="0">94%</tspan></text>
+        <text class="st1" transform="translate(652.8 408.13)"><tspan x="0" y="0">Reduction</tspan></text>
+        <polyline class="st13" points="614.95 389.21 387.89 252.97 198.67 237.84"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path class="st18" d="M-506.32-504.92h202.69c4.67,0,8.46,3.79,8.46,8.46v106.52h-219.61v-106.52c0-4.67,3.79-8.46,8.46-8.46Z"/>
+      <rect class="st21" x="-514.78" y="-504.43" width="219.61" height="166.88" rx="-85.34" ry="-85.34"/>
+      <line class="st21" x1="-514.78" y1="-389.94" x2="-295.17" y2="-389.94"/>
+      <text class="st6" transform="translate(-432.71 -439.92)"><tspan x="0" y="0">GUI</tspan></text>
+      <text class="st15" transform="translate(-488.06 -352.92)"><tspan x="0" y="0">DXL DB, DBEs</tspan></text>
+    </g>
+    <g>
+      <path class="st14" d="M-232.61-725.2H-29.93c4.67,0,8.46,3.79,8.46,8.46v106.52h-219.61v-106.52c0-4.67,3.79-8.46,8.46-8.46Z"/>
+      <rect class="st21" x="-241.08" y="-724.71" width="219.61" height="166.88" rx="-195.48" ry="-195.48"/>
+      <line class="st21" x1="-241.08" y1="-610.21" x2="-21.47" y2="-610.21"/>
+      <text class="st7" transform="translate(-192.78 -660.2)"><tspan x="0" y="0">Logging</tspan></text>
+      <text class="st15" transform="translate(-223.92 -572.02)"><tspan x="0" y="0">DOORS Modules</tspan></text>
+    </g>
+    <g>
+      <path class="st19" d="M41.09-725.2h202.69c4.67,0,8.46,3.79,8.46,8.46v106.52H32.63v-106.52c0-4.67,3.79-8.46,8.46-8.46Z"/>
+      <rect class="st21" x="32.63" y="-724.71" width="219.61" height="166.88" rx="-195.48" ry="-195.48"/>
+      <line class="st21" x1="32.63" y1="-610.21" x2="252.24" y2="-610.21"/>
+      <text class="st7" transform="translate(43.41 -660.2)"><tspan x="0" y="0">Synchronizer</tspan></text>
+      <text class="st15" transform="translate(82.01 -573.2)"><tspan x="0" y="0">Batch DXL</tspan></text>
+    </g>
+    <g>
+      <path class="st17" d="M41.09-512.94h202.69c4.67,0,8.46,3.79,8.46,8.46v106.52H32.63v-106.52c0-4.67,3.79-8.46,8.46-8.46Z"/>
+      <rect class="st21" x="32.63" y="-512.45" width="219.61" height="166.88" rx="-89.35" ry="-89.35"/>
+      <line class="st21" x1="32.63" y1="-397.96" x2="252.24" y2="-397.96"/>
+      <text class="st7" transform="translate(79.15 -466.66)"><tspan x="0" y="0">Data</tspan><tspan x="0" y="37.44">cleaning</tspan></text>
+      <text class="st15" transform="translate(101.79 -360.94)"><tspan x="0" y="0">Python</tspan></text>
+    </g>
+    <path class="st20" d="M310.58-303.4h202.69c4.67,0,8.46,3.79,8.46,8.46v106.52h-219.61v-106.52c0-4.67,3.79-8.46,8.46-8.46Z"/>
+    <rect class="st21" x="302.12" y="-302.91" width="219.61" height="166.88" rx="7.22" ry="7.22"/>
+    <line class="st21" x1="302.12" y1="-188.42" x2="521.73" y2="-188.42"/>
+    <text class="st7" transform="translate(321.77 -238.4)"><tspan x="0" y="0">Dashboards</tspan></text>
+    <text class="st15" transform="translate(363.94 -151.4)"><tspan x="0" y="0">PowerBI</tspan></text>
+    <path class="st22" d="M41.09-303.4h202.69c4.67,0,8.46,3.79,8.46,8.46v106.52H32.63v-106.52c0-4.67,3.79-8.46,8.46-8.46Z"/>
+    <rect class="st21" x="32.63" y="-302.91" width="219.61" height="166.88" rx="7.22" ry="7.22"/>
+    <line class="st21" x1="32.63" y1="-188.42" x2="252.24" y2="-188.42"/>
+    <text class="st7" transform="translate(54.84 -238.4)"><tspan x="0" y="0">Persistence</tspan></text>
+    <text class="st15" transform="translate(77.16 -151.4)"><tspan x="0" y="0">SQL Server</tspan></text>
+    <g>
+      <polygon points="-247.49 -641.47 -248.8 -640.71 -255.35 -636.87 -256.36 -637.46 -250.83 -640.71 -249.52 -641.47 -250.95 -642.32 -256.36 -645.53 -255.35 -646.16 -248.93 -642.32 -247.49 -641.47"/>
+      <polygon points="-247.49 -641.47 -248.8 -640.71 -282.21 -640.71 -282.21 -642.32 -248.93 -642.32 -247.49 -641.47"/>
+    </g>
+    <g>
+      <polygon points="19.84 -646.12 18.53 -645.36 11.98 -641.51 10.97 -642.1 16.5 -645.36 17.81 -646.12 16.38 -646.96 10.97 -650.17 11.98 -650.8 18.4 -646.96 19.84 -646.12"/>
+      <polygon points="19.84 -646.12 18.53 -645.36 -14.88 -645.36 -14.88 -646.96 18.4 -646.96 19.84 -646.12"/>
+    </g>
+    <g>
+      <polygon points="142.39 -518.03 141.63 -519.34 137.79 -525.88 138.38 -526.9 141.63 -521.36 142.39 -520.05 143.23 -521.49 146.44 -526.9 147.08 -525.88 143.23 -519.46 142.39 -518.03"/>
+      <polygon points="142.39 -518.03 141.63 -519.34 141.63 -552.74 143.23 -552.74 143.23 -519.46 142.39 -518.03"/>
+    </g>
+    <g>
+      <polygon points="143.19 -307.43 142.43 -308.74 138.59 -315.28 139.18 -316.3 142.43 -310.76 143.19 -309.45 144.04 -310.89 147.25 -316.3 147.88 -315.28 144.04 -308.86 143.19 -307.43"/>
+      <polygon points="143.19 -307.43 142.43 -308.74 142.43 -342.14 144.04 -342.14 144.04 -308.86 143.19 -307.43"/>
+    </g>
+    <g>
+      <polygon points="260.62 -219.76 261.93 -220.52 268.48 -224.36 269.49 -223.77 263.96 -220.52 262.65 -219.76 264.08 -218.92 269.49 -215.71 268.48 -215.07 262.06 -218.92 260.62 -219.76"/>
+      <polygon points="260.62 -219.76 261.93 -220.52 295.34 -220.52 295.34 -218.92 262.06 -218.92 260.62 -219.76"/>
+    </g>
+    <g>
+      <path class="st18" d="M-506.32-725.2h202.69c4.67,0,8.46,3.79,8.46,8.46v106.52h-219.61v-106.52c0-4.67,3.79-8.46,8.46-8.46Z"/>
+      <rect class="st21" x="-514.78" y="-724.71" width="219.61" height="166.88" rx="-195.48" ry="-195.48"/>
+      <text class="st6" transform="translate(-440.52 -660.2)"><tspan x="0" y="0">Core</tspan></text>
+      <text class="st15" transform="translate(-427.87 -573.2)"><tspan x="0" y="0">DXL</tspan></text>
+      <line class="st21" x1="-514.78" y1="-610.21" x2="-295.17" y2="-610.21"/>
+    </g>
+    <g>
+      <polygon points="-404.93 -547.37 -404.17 -546.06 -400.33 -539.52 -400.92 -538.5 -404.17 -544.04 -404.93 -545.35 -405.78 -543.91 -408.99 -538.5 -409.62 -539.52 -405.78 -545.94 -404.93 -547.37"/>
+      <polygon points="-404.93 -547.37 -404.17 -546.06 -404.17 -512.66 -405.78 -512.66 -405.78 -545.94 -404.93 -547.37"/>
+    </g>
+  </g>
+</svg>

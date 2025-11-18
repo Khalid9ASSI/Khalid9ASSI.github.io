@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 555.19 328.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #41ac9c;
+      }
+
+      .cls-2 {
+        fill: #ffa25f;
+      }
+
+      .cls-3 {
+        font-family: ArialMT, Arial;
+        font-size: 11.53px;
+      }
+
+      .cls-4 {
+        fill: #7a7bf1;
+      }
+
+      .cls-5 {
+        fill: #f0c913;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-7, .cls-8 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        fill: #2d5987;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        fill: #57bcf6;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-2" d="M36.89,128.35h88.66c4.67,0,8.46,3.79,8.46,8.46v46.82H28.42v-46.82c0-4.67,3.79-8.46,8.46-8.46Z"/>
+    <rect class="cls-6" x="28.42" y="128.59" width="105.58" height="80.23" rx="7.22" ry="7.22"/>
+    <line class="cls-6" x1="28.42" y1="183.63" x2="134.01" y2="183.63"/>
+    <text class="cls-8" transform="translate(67.88 159.6)"><tspan x="0" y="0">GUI</tspan></text>
+    <text class="cls-3" transform="translate(41.27 201.43)"><tspan x="0" y="0">DX</tspan><tspan class="cls-10" x="16.02" y="0">L</tspan><tspan x="22.01" y="0" xml:space="preserve"> DB, DBEs</tspan></text>
+  </g>
+  <g>
+    <path class="cls-9" d="M168.48,22.44h88.66c4.67,0,8.46,3.79,8.46,8.46v46.82h-105.58V30.91c0-4.67,3.79-8.46,8.46-8.46Z"/>
+    <rect class="cls-6" x="160.02" y="22.68" width="105.58" height="80.23" rx="7.22" ry="7.22"/>
+    <line class="cls-6" x1="160.02" y1="77.73" x2="265.6" y2="77.73"/>
+    <text class="cls-7" transform="translate(183.24 53.7)"><tspan x="0" y="0">Logging</tspan></text>
+    <text class="cls-3" transform="translate(168.27 96.09)"><tspan x="0" y="0">DOORS Modules</tspan></text>
+  </g>
+  <g>
+    <path class="cls-4" d="M300.07,22.44h88.66c4.67,0,8.46,3.79,8.46,8.46v46.82h-105.58V30.91c0-4.67,3.79-8.46,8.46-8.46Z"/>
+    <rect class="cls-6" x="291.61" y="22.68" width="105.58" height="80.23" rx="7.22" ry="7.22"/>
+    <line class="cls-6" x1="291.61" y1="77.73" x2="397.19" y2="77.73"/>
+    <text class="cls-7" transform="translate(296.79 53.7)"><tspan x="0" y="0">Synchronizer</tspan></text>
+    <text class="cls-3" transform="translate(315.35 95.53)"><tspan x="0" y="0">Batch DX</tspan><tspan class="cls-10" x="48.71" y="0">L</tspan></text>
+  </g>
+  <g>
+    <path class="cls-1" d="M300.07,124.49h88.66c4.67,0,8.46,3.79,8.46,8.46v46.82h-105.58v-46.82c0-4.67,3.79-8.46,8.46-8.46Z"/>
+    <rect class="cls-6" x="291.61" y="124.73" width="105.58" height="80.23" rx="7.22" ry="7.22"/>
+    <line class="cls-6" x1="291.61" y1="179.78" x2="397.19" y2="179.78"/>
+    <text class="cls-7" transform="translate(313.98 146.75)"><tspan x="0" y="0">Data</tspan><tspan x="0" y="18">cleaning</tspan></text>
+    <text class="cls-3" transform="translate(324.86 197.57)"><tspan x="0" y="0">Python</tspan></text>
+  </g>
+  <path class="cls-5" d="M429.64,225.24h88.66c4.67,0,8.46,3.79,8.46,8.46v46.82h-105.58v-46.82c0-4.67,3.79-8.46,8.46-8.46Z"/>
+  <rect class="cls-6" x="421.18" y="225.47" width="105.58" height="80.23" rx="7.22" ry="7.22"/>
+  <line class="cls-6" x1="421.18" y1="280.52" x2="526.76" y2="280.52"/>
+  <text class="cls-7" transform="translate(430.63 256.49)"><tspan x="0" y="0">Dashboards</tspan></text>
+  <text class="cls-3" transform="translate(450.9 298.32)"><tspan x="0" y="0">PowerBI</tspan></text>
+  <path class="cls-11" d="M300.07,225.24h88.66c4.67,0,8.46,3.79,8.46,8.46v46.82h-105.58v-46.82c0-4.67,3.79-8.46,8.46-8.46Z"/>
+  <rect class="cls-6" x="291.61" y="225.47" width="105.58" height="80.23" rx="7.22" ry="7.22"/>
+  <line class="cls-6" x1="291.61" y1="280.52" x2="397.19" y2="280.52"/>
+  <text class="cls-7" transform="translate(302.29 256.49)"><tspan x="0" y="0">Persistence</tspan></text>
+  <text class="cls-3" transform="translate(313.02 298.32)"><tspan x="0" y="0">SQ</tspan><tspan class="cls-10" x="16.66" y="0">L</tspan><tspan x="22.65" y="0" xml:space="preserve"> Server</tspan></text>
+  <g>
+    <polygon points="156.93 62.7 156.3 63.06 153.16 64.91 152.67 64.63 155.33 63.06 155.96 62.7 155.27 62.29 152.67 60.75 153.16 60.45 156.24 62.29 156.93 62.7"/>
+    <polygon points="156.93 62.7 156.3 63.06 140.24 63.06 140.24 62.29 156.24 62.29 156.93 62.7"/>
+  </g>
+  <g>
+    <polygon points="285.46 60.47 284.83 60.83 281.68 62.68 281.2 62.39 283.86 60.83 284.49 60.47 283.8 60.06 281.2 58.52 281.68 58.21 284.77 60.06 285.46 60.47"/>
+    <polygon points="285.46 60.47 284.83 60.83 268.77 60.83 268.77 60.06 284.77 60.06 285.46 60.47"/>
+  </g>
+  <g>
+    <polygon points="344.38 122.05 344.02 121.42 342.17 118.27 342.45 117.78 344.02 120.44 344.38 121.07 344.79 120.38 346.33 117.78 346.63 118.27 344.79 121.36 344.38 122.05"/>
+    <polygon points="344.38 122.05 344.02 121.42 344.02 105.36 344.79 105.36 344.79 121.36 344.38 122.05"/>
+  </g>
+  <g>
+    <polygon points="344.77 223.3 344.4 222.67 342.55 219.53 342.84 219.04 344.4 221.7 344.77 222.33 345.17 221.64 346.72 219.04 347.02 219.53 345.17 222.61 344.77 223.3"/>
+    <polygon points="344.77 223.3 344.4 222.67 344.4 206.61 345.17 206.61 345.17 222.61 344.77 223.3"/>
+  </g>
+  <g>
+    <polygon points="401.22 265.45 401.85 265.08 405 263.24 405.49 263.52 402.83 265.08 402.2 265.45 402.89 265.86 405.49 267.4 405 267.7 401.91 265.86 401.22 265.45"/>
+    <polygon points="401.22 265.45 401.85 265.08 417.92 265.08 417.92 265.86 401.91 265.86 401.22 265.45"/>
+  </g>
+  <g>
+    <path class="cls-2" d="M36.89,22.44h88.66c4.67,0,8.46,3.79,8.46,8.46v46.82H28.42V30.91c0-4.67,3.79-8.46,8.46-8.46Z"/>
+    <rect class="cls-6" x="28.42" y="22.68" width="105.58" height="80.23" rx="7.22" ry="7.22"/>
+    <text class="cls-8" transform="translate(64.13 53.7)"><tspan x="0" y="0">Core</tspan></text>
+    <text class="cls-3" transform="translate(70.21 95.53)"><tspan x="0" y="0">DX</tspan><tspan class="cls-10" x="16.02" y="0">L</tspan></text>
+    <line class="cls-6" x1="28.42" y1="77.73" x2="134.01" y2="77.73"/>
+  </g>
+  <g>
+    <polygon points="81.24 107.94 81.6 108.57 83.45 111.72 83.17 112.2 81.6 109.54 81.24 108.91 80.83 109.61 79.29 112.2 78.98 111.72 80.83 108.63 81.24 107.94"/>
+    <polygon points="81.24 107.94 81.6 108.57 81.6 124.63 80.83 124.63 80.83 108.63 81.24 107.94"/>
+  </g>
+</svg>
