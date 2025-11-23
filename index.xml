@@ -6,14 +6,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
  &lt;div class="hn-item"&gt;
- &lt;span class="hn-rank"&gt;4.&lt;/span&gt;
+ &lt;span class="hn-rank"&gt;1.&lt;/span&gt;
  &lt;div class="hn-content"&gt;
  &lt;div class="hn-title"&gt;
  &lt;a href="https://www.thoughtworks.com/radar" target="_blank"&gt;An opinionated guide to today&amp;#39;s technology landscape&lt;/a&gt;
@@ -38,10 +32,8 @@
  
  
  
- 
- 
  &lt;div class="hn-item"&gt;
- &lt;span class="hn-rank"&gt;6.&lt;/span&gt;
+ &lt;span class="hn-rank"&gt;2.&lt;/span&gt;
  &lt;div class="hn-content"&gt;
  &lt;div class="hn-title"&gt;
  &lt;a href="https://jmmv.dev/2023/06/fast-machines-slow-machines.html/" target="_blank"&gt;Fast machines, slow machines.&lt;/a&gt;
@@ -66,10 +58,8 @@
  
  
  
- 
- 
  &lt;div class="hn-item"&gt;
- &lt;span class="hn-rank"&gt;8.&lt;/span&gt;
+ &lt;span class="hn-rank"&gt;3.&lt;/span&gt;
  &lt;div class="hn-content"&gt;
  &lt;div class="hn-title"&gt;
  &lt;a href="https://stretchmytimeoff.com/" target="_blank"&gt;Optimize vacations using holidays smartly.&lt;/a&gt;
