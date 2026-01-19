@@ -6,54 +6,20 @@
  
  
  
- &lt;div class="hn-item"&gt;
- &lt;span class="hn-rank"&gt;1.&lt;/span&gt;
- &lt;div class="hn-content"&gt;
- &lt;div class="hn-title"&gt;
- &lt;a href="https://www.youtube.com/@bigboxSWE" target="_blank"&gt;Youtube channel bigboxSWE&lt;/a&gt;
- &lt;span class="hn-domain"&gt;(https://www.youtube.com/@bigboxSWE)&lt;/span&gt;
- &lt;/div&gt;
- &lt;div class="hn-meta"&gt;
- 
- &lt;span&gt;Technology, Entertainement&lt;/span&gt;
- 
- 
- 
- &lt;span class="hn-tags"&gt;
- 
- &lt;span class="hn-tag"&gt;⭐⭐⭐⭐&lt;/span&gt;
- 
- &lt;/span&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
  
  
  
  
- &lt;div class="hn-item"&gt;
- &lt;span class="hn-rank"&gt;2.&lt;/span&gt;
- &lt;div class="hn-content"&gt;
- &lt;div class="hn-title"&gt;
- &lt;a href="https://www.thoughtworks.com/radar" target="_blank"&gt;An opinionated guide to today&amp;#39;s technology landscape&lt;/a&gt;
- &lt;span class="hn-domain"&gt;(thoughtworks.com/radar)&lt;/span&gt;
- &lt;/div&gt;
- &lt;div class="hn-meta"&gt;
- 
- &lt;span&gt;Technology, Radar&lt;/span&gt;
  
  
  
- &lt;span class="hn-tags"&gt;
  
- &lt;span class="hn-tag"&gt;⭐⭐⭐⭐&lt;/span&gt;
  
- &lt;/span&gt;
  
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
+ 
+ 
+ 
+ 
  
  
  
@@ -62,18 +28,25 @@
  &lt;span class="hn-rank"&gt;3.&lt;/span&gt;
  &lt;div class="hn-content"&gt;
  &lt;div class="hn-title"&gt;
- &lt;a href="https://jmmv.dev/2023/06/fast-machines-slow-machines.html/" target="_blank"&gt;Fast machines, slow machines.&lt;/a&gt;
- &lt;span class="hn-domain"&gt;(jmmv.dev/2023/06/fast-machines-slow-machines.html)&lt;/span&gt;
+ &lt;a href="https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html" target="_blank"&gt;Why We&amp;#39;ve Tried to Replace Developers Every Decade Since 1969&lt;/a&gt;
+ &lt;span class="hn-domain"&gt;(https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)&lt;/span&gt;
  &lt;/div&gt;
  &lt;div class="hn-meta"&gt;
  
- &lt;span&gt;Latency, Windows performance, Abstraction layers, Framework overhead, Operating systems, web apps, performance regression, hardware advancements, random I/O, GPU acceleration, modern app design, cross-platform development, virtualization of UI, Windows Terminal&lt;/span&gt;
- 
+ &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
  
  
  &lt;span class="hn-tags"&gt;
  
- &lt;span class="hn-tag"&gt;⭐⭐⭐⭐&lt;/span&gt;
+ &lt;span class="hn-tag"&gt;Software Development Complexity&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;AI vs Developers&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Low-Code / No-Code Myth&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;History of Programming Tools&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Human Judgment in Engineering&lt;/span&gt;
  
  &lt;/span&gt;
  
@@ -84,22 +57,192 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  &lt;div class="hn-item"&gt;
- &lt;span class="hn-rank"&gt;4.&lt;/span&gt;
+ &lt;span class="hn-rank"&gt;5.&lt;/span&gt;
  &lt;div class="hn-content"&gt;
  &lt;div class="hn-title"&gt;
- &lt;a href="https://stretchmytimeoff.com/" target="_blank"&gt;Optimize vacations using holidays smartly.&lt;/a&gt;
- &lt;span class="hn-domain"&gt;(stretchmytimeoff.com)&lt;/span&gt;
+ &lt;a href="https://www.youtube.com/@bigboxSWE" target="_blank"&gt;Youtube channel bigboxSWE&lt;/a&gt;
+ &lt;span class="hn-domain"&gt;(https://www.youtube.com/@bigboxSWE)&lt;/span&gt;
  &lt;/div&gt;
  &lt;div class="hn-meta"&gt;
  
- &lt;span&gt;Holidays, Optimization&lt;/span&gt;
- 
+ &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
  
  
  &lt;span class="hn-tags"&gt;
  
- &lt;span class="hn-tag"&gt;⭐⭐⭐⭐⭐&lt;/span&gt;
+ &lt;span class="hn-tag"&gt;Technology&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Entertainement&lt;/span&gt;
+ 
+ &lt;/span&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div class="hn-item"&gt;
+ &lt;span class="hn-rank"&gt;7.&lt;/span&gt;
+ &lt;div class="hn-content"&gt;
+ &lt;div class="hn-title"&gt;
+ &lt;a href="thoughtworks.com/radar" target="_blank"&gt;An opinionated guide to today&amp;#39;s technology landscape&lt;/a&gt;
+ &lt;span class="hn-domain"&gt;(thoughtworks.com/radar)&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="hn-meta"&gt;
+ 
+ &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
+ 
+ 
+ &lt;span class="hn-tags"&gt;
+ 
+ &lt;span class="hn-tag"&gt;Technology&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Radar&lt;/span&gt;
+ 
+ &lt;/span&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div class="hn-item"&gt;
+ &lt;span class="hn-rank"&gt;9.&lt;/span&gt;
+ &lt;div class="hn-content"&gt;
+ &lt;div class="hn-title"&gt;
+ &lt;a href="jmmv.dev/2023/06/fast-machines-slow-machines.html" target="_blank"&gt;Fast machines, slow machines.&lt;/a&gt;
+ &lt;span class="hn-domain"&gt;(jmmv.dev/2023/06/fast-machines-slow-machines.html)&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="hn-meta"&gt;
+ 
+ &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
+ 
+ 
+ &lt;span class="hn-tags"&gt;
+ 
+ &lt;span class="hn-tag"&gt;Latency&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Windows performance&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Abstraction layers&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Framework overhead&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Operating systems&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;web apps&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;performance regression&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;hardware advancements&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;random I/O&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;GPU acceleration&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;modern app design&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;cross-platform development&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;virtualization of UI&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Windows Terminal&lt;/span&gt;
+ 
+ &lt;/span&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div class="hn-item"&gt;
+ &lt;span class="hn-rank"&gt;11.&lt;/span&gt;
+ &lt;div class="hn-content"&gt;
+ &lt;div class="hn-title"&gt;
+ &lt;a href="https://stretchmytimeoff.com/" target="_blank"&gt;Optimize vacations using holidays smartly.&lt;/a&gt;
+ &lt;span class="hn-domain"&gt;(https://stretchmytimeoff.com/)&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="hn-meta"&gt;
+ 
+ &lt;span&gt;⭐⭐⭐⭐⭐&lt;/span&gt;
+ 
+ 
+ &lt;span class="hn-tags"&gt;
+ 
+ &lt;span class="hn-tag"&gt;Holidays&lt;/span&gt;
+ 
+ &lt;span class="hn-tag"&gt;Optimization&lt;/span&gt;
  
  &lt;/span&gt;
  
@@ -113,25 +256,21 @@
 &lt;/div&gt;
 
 &lt;style&gt;
- .hn-list { font-family: Verdana, sans-serif; font-size: 10pt; 
-}
-.hn-item { display: flex; gap: 8px; padding: 4px 0; 
- margin-bottom: 1%;
-
-}
-.hn-rank { color: #fff; min-width: 25px; font-weight: bold; }
-.hn-title a { color: inherit; text-decoration: none; }
-.hn-title a:visited { opacity: 0.6; }
-.hn-title a:hover { text-decoration: underline; }
-.hn-domain { color: #999; font-size: 8pt; margin-left: 4px; }
-.hn-meta { font-size: 7pt; color: #999; display: flex; gap: 8px; align-items: center; }
-.hn-tags { display: flex; gap: 4px; flex-wrap: wrap; }
-.hn-tag { 
+ .hn-list { font-family: Verdana, sans-serif; font-size: 10pt; }
+ .hn-item { display: flex; gap: 8px; padding: 4px 0; margin-bottom: 1%; }
+ .hn-rank { color: #fff; min-width: 25px; font-weight: bold; }
+ .hn-title a { color: inherit; text-decoration: none; }
+ .hn-title a:visited { opacity: 0.6; }
+ .hn-title a:hover { text-decoration: underline; }
+ .hn-domain { color: #999; font-size: 8pt; margin-left: 4px; }
+ .hn-meta { font-size: 7pt; color: #999; display: flex; gap: 8px; align-items: center; }
+ .hn-tags { display: flex; gap: 4px; flex-wrap: wrap; }
+ .hn-tag { 
  background: rgba(var(--color-primary-800),var(--tw-bg-opacity,1)); 
  border: 1px solid rgba(180, 127, 184, 0.3); 
  color: white;
  padding: 2px 6px; 
  border-radius: 3px; 
  font-size: 7pt;
-}
+ }
 &lt;/style&gt;</description></item></channel></rss>
