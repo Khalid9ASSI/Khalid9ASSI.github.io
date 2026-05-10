@@ -169,7 +169,7 @@ see
  style="width: 704px; display: block; margin-left: auto; margin-right: auto; height: auto" alt="doors-concepts"loading="lazy"
  &gt;
 &lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Programmatically manage IBM DOORS Baselines</title><link>https://khalid9assi.com/posts/doors-baselines/</link><pubDate>Sun, 21 Aug 2022 10:30:00 +0100</pubDate><guid>https://khalid9assi.com/posts/doors-baselines/</guid><description>&lt;p&gt;In IBM Rational DOORS, maintaining a historical record of requirement evolution is crucial for project integrity. This tutorial explores the programmatic management of Baselines and Baseline Sets using DXL.&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Programmatically managing IBM DOORS Baselines using DXL</title><link>https://khalid9assi.com/posts/doors-baselines/</link><pubDate>Sun, 21 Aug 2022 10:30:00 +0100</pubDate><guid>https://khalid9assi.com/posts/doors-baselines/</guid><description>&lt;p&gt;In IBM Rational DOORS, maintaining a historical record of requirement evolution is crucial for project integrity. This tutorial explores the programmatic management of Baselines and Baseline Sets using DXL.&lt;/p&gt;
 
 
 
