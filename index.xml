@@ -319,7 +319,7 @@ see
  &lt;/div&gt;
  &lt;div class="hn-meta"&gt;
  
- &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
+ &lt;span class="hn-rating"&gt;⭐⭐⭐⭐&lt;/span&gt;
  
  
  &lt;span class="hn-tags"&gt;
@@ -366,7 +366,7 @@ see
  &lt;/div&gt;
  &lt;div class="hn-meta"&gt;
  
- &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
+ &lt;span class="hn-rating"&gt;⭐⭐⭐⭐&lt;/span&gt;
  
  
  &lt;span class="hn-tags"&gt;
@@ -407,7 +407,7 @@ see
  &lt;/div&gt;
  &lt;div class="hn-meta"&gt;
  
- &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
+ &lt;span class="hn-rating"&gt;⭐⭐⭐⭐&lt;/span&gt;
  
  
  &lt;span class="hn-tags"&gt;
@@ -448,7 +448,7 @@ see
  &lt;/div&gt;
  &lt;div class="hn-meta"&gt;
  
- &lt;span&gt;⭐⭐⭐⭐&lt;/span&gt;
+ &lt;span class="hn-rating"&gt;⭐⭐⭐⭐&lt;/span&gt;
  
  
  &lt;span class="hn-tags"&gt;
@@ -513,7 +513,7 @@ see
  &lt;/div&gt;
  &lt;div class="hn-meta"&gt;
  
- &lt;span&gt;⭐⭐⭐⭐⭐&lt;/span&gt;
+ &lt;span class="hn-rating"&gt;⭐⭐⭐⭐⭐&lt;/span&gt;
  
  
  &lt;span class="hn-tags"&gt;
@@ -550,5 +550,9 @@ see
  padding: 2px 6px; 
  border-radius: 3px; 
  font-size: 7pt;
+ }
+ @media (max-width: 640px) {
+ .hn-tags { display: none; }
+ .hn-rating { display: none; }
  }
 &lt;/style&gt;</description></item></channel></rss>
