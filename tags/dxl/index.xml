@@ -19,20 +19,18 @@
 
 
 
- 
-
-
-
-
 
  
 
 
 
 
+
  
- 
- 
+
+
+
+
  
  
  
@@ -41,17 +39,9 @@
  
  
  
-
-
-
-
-
-
-
-
-
  
-
+ 
+ 
 
 
 
@@ -70,16 +60,30 @@
 
 
 
+
+
  
 
 
 
 
-&lt;div style="background-color: #fff; padding: 1rem 0;"&gt;
+
+
+
+
+ 
+
+
+
+
+&lt;figure style="margin: 0;"&gt;
+ &lt;div style="background-color: #fff; padding: 1rem 0;"&gt;
  &lt;img src="https://khalid9assi.com/imgs/doors-links-concepts.png"
  style="width: 704px; display: block; margin-left: auto; margin-right: auto; height: auto" alt="doors-concepts"loading="lazy"
  &gt;
-&lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/figure&gt;
 &lt;/p&gt;</description></item><item><title>Programmatically managing IBM DOORS Baselines using DXL</title><link>https://khalid9assi.com/posts/doors-baselines/</link><pubDate>Sun, 21 Aug 2022 10:30:00 +0100</pubDate><guid>https://khalid9assi.com/posts/doors-baselines/</guid><description>&lt;p&gt;In IBM Rational DOORS, maintaining a historical record of requirement evolution is crucial for project integrity. This tutorial explores the programmatic management of Baselines and Baseline Sets using DXL.&lt;/p&gt;
 
 
@@ -95,20 +99,18 @@
 
 
 
- 
-
-
-
-
 
  
 
 
 
 
+
  
- 
- 
+
+
+
+
  
  
  
@@ -117,17 +119,9 @@
  
  
  
-
-
-
-
-
-
-
-
-
  
-
+ 
+ 
 
 
 
@@ -146,16 +140,30 @@
 
 
 
+
+
  
 
 
 
 
-&lt;div style="background-color: ##fff; padding: 1rem 0;"&gt;
+
+
+
+
+ 
+
+
+
+
+&lt;figure style="margin: 0;"&gt;
+ &lt;div style="background-color: ##fff; padding: 1rem 0;"&gt;
  &lt;img src="https://khalid9assi.com/imgs/doors-baselines-concepts.png"
  style="width: 1408px; display: block; margin-left: auto; margin-right: auto; height: auto" alt="Baselines concepts"loading="lazy"
  &gt;
-&lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/figure&gt;
 
 &lt;h2 id="1-concepts-and-relationships-overview" class="relative group"&gt;1. Concepts and Relationships Overview &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#1-concepts-and-relationships-overview" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Before diving into the code, it is essential to understand the hierarchy and relationships between these data structures:&lt;/p&gt;</description></item><item><title>IBM DOORS &amp; DXL tips &amp; hacks</title><link>https://khalid9assi.com/posts/dxl-notes/</link><pubDate>Sat, 20 Aug 2022 10:30:00 +0100</pubDate><guid>https://khalid9assi.com/posts/dxl-notes/</guid><description>&lt;table&gt;
  &lt;thead&gt;

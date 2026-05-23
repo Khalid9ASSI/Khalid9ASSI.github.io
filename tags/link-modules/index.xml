@@ -16,20 +16,18 @@
 
 
 
- 
-
-
-
-
 
  
 
 
 
 
+
  
- 
- 
+
+
+
+
  
  
  
@@ -38,17 +36,9 @@
  
  
  
-
-
-
-
-
-
-
-
-
  
-
+ 
+ 
 
 
 
@@ -67,14 +57,28 @@
 
 
 
+
+
  
 
 
 
 
-&lt;div style="background-color: #fff; padding: 1rem 0;"&gt;
+
+
+
+
+ 
+
+
+
+
+&lt;figure style="margin: 0;"&gt;
+ &lt;div style="background-color: #fff; padding: 1rem 0;"&gt;
  &lt;img src="https://khalid9assi.com/imgs/doors-links-concepts.png"
  style="width: 704px; display: block; margin-left: auto; margin-right: auto; height: auto" alt="doors-concepts"loading="lazy"
  &gt;
-&lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/figure&gt;
 &lt;/p&gt;</description></item></channel></rss>
