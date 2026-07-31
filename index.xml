@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>index on Khalid9ASSI</title><link>https://khalid9assi.com/</link><description>Recent content in index on Khalid9ASSI</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://khalid9assi.com/index.xml" rel="self" type="application/rss+xml"/><item><title>IBM DOORS Access Rights Manager</title><link>https://khalid9assi.com/projects/doors-access-rights-manager/</link><pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/projects/doors-access-rights-manager/</guid><description>IBM DOORS Access Rights Manager</description></item><item><title>twichiya2</title><link>https://khalid9assi.com/twichiyates/twichiya2/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya2/</guid><description>Summary of project</description></item><item><title>twichiya3</title><link>https://khalid9assi.com/twichiyates/twichiya3/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya3/</guid><description>Summary of project</description></item><item><title>twichiya4</title><link>https://khalid9assi.com/twichiyates/twichiya4/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya4/</guid><description>Summary of project</description></item><item><title>تويشي</title><link>https://khalid9assi.com/twichiyates/twichiya1/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya1/</guid><description>Summary of project</description></item><item><title>Optimizing Your DXL Code</title><link>https://khalid9assi.com/posts/dxl-optimization-tips/</link><pubDate>Tue, 01 Oct 2024 10:00:00 +0100</pubDate><guid>https://khalid9assi.com/posts/dxl-optimization-tips/</guid><description>&lt;p&gt;In DXL development, performance and stability depned alot on how you manage memory. Because &lt;strong&gt;DXL does not provide automatic garbage collection&lt;/strong&gt;, failing to explicitly deallocate data structures can lead to &amp;ldquo;System memory exhausted&amp;rdquo; errors and slow response times.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>index on Khalid9ASSI</title><link>https://khalid9assi.com/</link><description>Recent content in index on Khalid9ASSI</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://khalid9assi.com/index.xml" rel="self" type="application/rss+xml"/><item><title>IBM DOORS Access Rights Manager</title><link>https://khalid9assi.com/projects/doors-access-rights-manager/</link><pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/projects/doors-access-rights-manager/</guid><description>IBM DOORS Access Rights Manager</description></item><item><title>TWIL 3</title><link>https://khalid9assi.com/twil/21-2026/</link><pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/twil/21-2026/</guid><description>&lt;hr&gt;
+&lt;p&gt;In the previous TWIL, we&amp;rsquo;ve learned about Thermal printers, their components, communication interfaces &amp;amp; Command language.
+In this TWIL, we&amp;rsquo;ll try to communicate with one Label Printer using its command language which is TSPL.&lt;/p&gt;
+&lt;h1 id="talking-to-a-thermal-printer-using-tspl" class="relative group"&gt;Talking to a thermal printer using TSPL &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#talking-to-a-thermal-printer-using-tspl" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;In the previous TWIL, I explored how thermal printers work internally, identified my printer, and successfully established a Bluetooth connection to it using Python.&lt;/p&gt;</description></item><item><title>TWIL 2</title><link>https://khalid9assi.com/twil/20-2026/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/twil/20-2026/</guid><description>&lt;h2 id="topic-1--thermal-printers" class="relative group"&gt;Topic 1 : Thermal printers &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#topic-1--thermal-printers" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;My wife started a small business &amp;amp; got a thermal printer to print the labels for her orders.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a new device for me, I&amp;rsquo;ve never interacted with one, so I decided to investigate how it works &amp;amp; how I can communicate with it &amp;amp; print labels safely, especially since the driver that the seller advised me to use is very suspicious Chinese non-official software.&lt;/p&gt;</description></item><item><title>TWIL 1</title><link>https://khalid9assi.com/twil/19-2026/</link><pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/twil/19-2026/</guid><description>&lt;h2 id="neuroplasticity" class="relative group"&gt;Neuroplasticity &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#neuroplasticity" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Neuroplasticity&lt;/strong&gt; is the brain&amp;rsquo;s lifelong capacity to reorganize itself by forming, strengthening, or pruning neural connections in response to experience, learning, and environment. It&amp;rsquo;s not a metaphor, it&amp;rsquo;s a literal physical restructuring of brain tissue.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+&lt;figure style="margin: 0;"&gt;
+ &lt;div style="background-color: #fff; padding: 1rem 0;"&gt;
+ &lt;img src="https://khalid9assi.com/imgs/neurplasticity-graph.png"
+ style="width: 986px; display: block; margin-left: auto; margin-right: auto; height: auto" alt="Analytics"loading="lazy"
+ &gt;
+ &lt;/div&gt;
+ 
+&lt;/figure&gt;
+
+&lt;p&gt;The three mechanisms are :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Synaptogenesis : building new synaptic connections&lt;/li&gt;
+&lt;li&gt;Pruning : eliminating pathways you don&amp;rsquo;t use&lt;/li&gt;
+&lt;li&gt;Myelination : brain wraps the pathways you use most in a protective layer, making signals travel faster. The more you repeat something, the quicker and smoother that connection becomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How to drive neuroplasticity&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>twichiya2</title><link>https://khalid9assi.com/twichiyates/twichiya2/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya2/</guid><description>Summary of project</description></item><item><title>twichiya3</title><link>https://khalid9assi.com/twichiyates/twichiya3/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya3/</guid><description>Summary of project</description></item><item><title>twichiya4</title><link>https://khalid9assi.com/twichiyates/twichiya4/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya4/</guid><description>Summary of project</description></item><item><title>تويشي</title><link>https://khalid9assi.com/twichiyates/twichiya1/</link><pubDate>Tue, 28 Oct 2025 22:54:16 +0100</pubDate><guid>https://khalid9assi.com/twichiyates/twichiya1/</guid><description>Summary of project</description></item><item><title>Optimizing Your DXL Code</title><link>https://khalid9assi.com/posts/dxl-optimization-tips/</link><pubDate>Tue, 01 Oct 2024 10:00:00 +0100</pubDate><guid>https://khalid9assi.com/posts/dxl-optimization-tips/</guid><description>&lt;p&gt;In DXL development, performance and stability depned alot on how you manage memory. Because &lt;strong&gt;DXL does not provide automatic garbage collection&lt;/strong&gt;, failing to explicitly deallocate data structures can lead to &amp;ldquo;System memory exhausted&amp;rdquo; errors and slow response times.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id="1-the-string-trap" class="relative group"&gt;1. The String Trap &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#1-the-string-trap" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Strings in DXL persist in memory&lt;/strong&gt; and are not deallocated until DOORS is closed.&lt;/p&gt;
 &lt;p&gt;While they are easy to use, they can &amp;ldquo;pollute&amp;rdquo; the string table during intensive processing.&lt;/p&gt;</description></item><item><title>Entreprise-scale requirements release tool</title><link>https://khalid9assi.com/projects/entreprise-scale-requirements-release-tool/</link><pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/projects/entreprise-scale-requirements-release-tool/</guid><description>Automotive release automation tool for IBM DOORS</description></item><item><title>IBM DOORS Links</title><link>https://khalid9assi.com/posts/dxl-links/</link><pubDate>Wed, 02 Aug 2023 10:30:00 +0100</pubDate><guid>https://khalid9assi.com/posts/dxl-links/</guid><description>&lt;p&gt;Linking and traceability in IBM DOORS allow users to build and track relationships between requirements across a project&amp;rsquo;s lifecycle.&lt;/p&gt;

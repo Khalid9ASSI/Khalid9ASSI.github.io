@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>This Week I Learned on Khalid9ASSI</title><link>https://khalid9assi.com/tags/this-week-i-learned/</link><description>Recent content in This Week I Learned on Khalid9ASSI</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://khalid9assi.com/tags/this-week-i-learned/index.xml" rel="self" type="application/rss+xml"/><item><title>TWIL 3</title><link>https://khalid9assi.com/twil/21-2026/</link><pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/twil/21-2026/</guid><description>&lt;hr&gt;
+&lt;p&gt;In the previous TWIL, we&amp;rsquo;ve learned about Thermal printers, their components, communication interfaces &amp;amp; Command language.
+In this TWIL, we&amp;rsquo;ll try to communicate with one Label Printer using its command language which is TSPL.&lt;/p&gt;
+&lt;h1 id="talking-to-a-thermal-printer-using-tspl" class="relative group"&gt;Talking to a thermal printer using TSPL &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#talking-to-a-thermal-printer-using-tspl" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;In the previous TWIL, I explored how thermal printers work internally, identified my printer, and successfully established a Bluetooth connection to it using Python.&lt;/p&gt;</description></item><item><title>TWIL 2</title><link>https://khalid9assi.com/twil/20-2026/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/twil/20-2026/</guid><description>&lt;h2 id="topic-1--thermal-printers" class="relative group"&gt;Topic 1 : Thermal printers &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#topic-1--thermal-printers" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;My wife started a small business &amp;amp; got a thermal printer to print the labels for her orders.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a new device for me, I&amp;rsquo;ve never interacted with one, so I decided to investigate how it works &amp;amp; how I can communicate with it &amp;amp; print labels safely, especially since the driver that the seller advised me to use is very suspicious Chinese non-official software.&lt;/p&gt;</description></item><item><title>TWIL 1</title><link>https://khalid9assi.com/twil/19-2026/</link><pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate><guid>https://khalid9assi.com/twil/19-2026/</guid><description>&lt;h2 id="neuroplasticity" class="relative group"&gt;Neuroplasticity &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#neuroplasticity" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Neuroplasticity&lt;/strong&gt; is the brain&amp;rsquo;s lifelong capacity to reorganize itself by forming, strengthening, or pruning neural connections in response to experience, learning, and environment. It&amp;rsquo;s not a metaphor, it&amp;rsquo;s a literal physical restructuring of brain tissue.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+&lt;figure style="margin: 0;"&gt;
+ &lt;div style="background-color: #fff; padding: 1rem 0;"&gt;
+ &lt;img src="https://khalid9assi.com/imgs/neurplasticity-graph.png"
+ style="width: 986px; display: block; margin-left: auto; margin-right: auto; height: auto" alt="Analytics"loading="lazy"
+ &gt;
+ &lt;/div&gt;
+ 
+&lt;/figure&gt;
+
+&lt;p&gt;The three mechanisms are :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Synaptogenesis : building new synaptic connections&lt;/li&gt;
+&lt;li&gt;Pruning : eliminating pathways you don&amp;rsquo;t use&lt;/li&gt;
+&lt;li&gt;Myelination : brain wraps the pathways you use most in a protective layer, making signals travel faster. The more you repeat something, the quicker and smoother that connection becomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How to drive neuroplasticity&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
